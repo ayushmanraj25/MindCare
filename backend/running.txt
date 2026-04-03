@@ -1,0 +1,13 @@
+
+
+
+ backend running
+
+cd backend
+uvicorn app.main:app --reload
+
+for frontend 
+
+
+cd frontend 
+ npm start
